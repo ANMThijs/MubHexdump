@@ -1,0 +1,2 @@
+D:\Documenten\Mubeen\Tools\MubHexdump\Debug\MubHexdump.exe
+D:\Documenten\Mubeen\Tools\MubHexdump\Debug\MubHexdump.pdb
