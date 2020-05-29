@@ -1,6 +1,0 @@
-1. Open a cmd window in the desired location
-2. type: MubHexdump [inputfilename] [outputfilename]
-
-Note: 
- -Inputfilename can have any file extension
- -Ouputfilename is not necessary, if you don't add it the content of the inputfile will be outputted to the cmd 
