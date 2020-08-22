@@ -1,0 +1,7 @@
+﻿  Args.c
+  Dump.c
+  Line.c
+  Main.c
+  Generating Code...
+D:\Documenten\Mubeen\Tools\MubHexdump\Source\Dump.c(80): warning C4715: 'DumpFile': not all control paths return a value
+  MubHexdump.vcxproj -> D:\Documenten\Mubeen\Tools\MubHexdump\Debug\MubHexdump.exe
